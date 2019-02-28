@@ -1,0 +1,28 @@
+email: dpanic@gmail.com
+username: dpanic@gmail.com
+password: here_goes_your_password
+
+
+# php
+https://github.com/phpmyadmin/phpmyadmin/releases.atom
+
+# python
+https://github.com/feus4177/socketIO-client-2/releases.atom
+https://github.com/invisibleroads/socketIO-client/releases.atom
+https://github.com/nexus-devs/socketIO-client-2.0.3/releases.atom
+https://github.com/celery/celery/releases.atom
+
+# nodejs
+https://github.com/GoogleChrome/puppeteer/releases.atom
+
+# general
+https://github.com/pi-hole/pi-hole/releases.atom
+https://github.com/gchq/CyberChef/releases.atom
+https://github.com/ytsutano/axmldec/releases.atom
+https://github.com/openssl/openssl/releases.atom
+https://github.com/mitmproxy/mitmproxy/releases.atom
+https://github.com/skylot/jadx/releases.atom
+
+# javascript
+https://github.com/cytoscape/cytoscape.js-panzoom/releases.atom
+https://github.com/cytoscape/cytoscape.js/releases.atom
