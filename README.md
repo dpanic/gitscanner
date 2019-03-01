@@ -2,9 +2,7 @@
 
 This is robot which constantly checks Github release page and notifies user about changes by email
 
-***
-***Notice***: This project was created before Github added this option to repositories.
-***
+***Notice***: This project was created before Github added this option to repositories. 
 
 
 # Install
