@@ -2,6 +2,10 @@
 
 This is robot which constantly checks Github release page and notifies user about changes by email
 
+***
+***Notice***: This project was created before Github added this option to repositories.
+***
+
 
 # Install
 1. python3 -m pip install -r requirements.txt
