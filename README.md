@@ -22,5 +22,47 @@ https://github.com/phpmyadmin/phpmyadmin/releases.atom
 
 
 # Todo
-1. Docker
 2. Code refactor
+
+
+
+
+
+
+# Docker
+Running docker:
+
+1. **Build**: 
+```
+docker build -t gitscanner .
+```
+
+2. **Run**: 
+
+```
+docker run --name gitscanner_instance --restart=always -d -t gitscanner
+```
+
+or 
+
+```
+docker run --name gitscanner_instance -d -t gitscanner
+```
+
+
+3. **Bash (if you need)**: 
+```
+docker exec -i -t gitscanner_instance /bin/bash
+```
+
+4. **Stop and remove**:
+```
+docker stop gitscanner_instance
+docker rm gitscanner_instance 
+docker rmi gitscanner
+```
+
+5. **Logs**
+```
+docker logs -f gitscanner_instance
+```

@@ -4,5 +4,5 @@ SCRIPTPATH=`dirname $SCRIPT`
 echo $SCRIPTPATH
 cd $SCRIPTPATH
 
-python3 -B bot.py urls.txt
+python3 -B ../bot.py urls.txt
  
