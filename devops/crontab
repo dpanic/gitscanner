@@ -1,1 +1,1 @@
-0 14 * * * /bin/bash /app/bot.sh
+0 14 * * * /bin/bash /app/devops/bot.sh
